@@ -1,0 +1,196 @@
+{
+    "characters": [
+      {
+        "name": "Lyara",
+        "type": "Mage",
+        "race": "Elf",
+        "specialization": "Mage",
+        "hp": 1200,
+        "speed": 100,
+        "defense": 50,
+        "spells": [
+          {
+            "name": "Arcane Orb",
+            "damage": 120,
+            "spellType": "Magic"
+          },
+          {
+            "name": "Ethereal Storm",
+            "damage": 200,
+            "spellType": "Magic"
+          }
+        ]
+      },
+      {
+        "name": "Gorrak",
+        "type": "Warrior",
+        "race": "Orc",
+        "specialization": "Tank",
+        "hp": 1800,
+        "speed": 80,
+        "defense": 100,
+        "spells": [
+          {
+            "name": "Raging Strike",
+            "damage": 150,
+            "spellType": "Physical"
+          },
+          {
+            "name": "Brutal Smash",
+            "damage": 220,
+            "spellType": "Physical"
+          }
+        ]
+      },
+      {
+        "name": "Selena",
+        "type": "Assassin",
+        "race": "Demon",
+        "specialization": "DPS",
+        "hp": 1000,
+        "speed": 130,
+        "defense": 40,
+        "spells": [
+          {
+            "name": "Shadow Blade",
+            "damage": 180,
+            "spellType": "Physical"
+          },
+          {
+            "name": "Fatal Slash",
+            "damage": 250,
+            "spellType": "Physical"
+          }
+        ]
+      },
+      {
+        "name": "Thalios",
+        "type": "Paladin",
+        "race": "Human",
+        "specialization": "Tank",
+        "hp": 1600,
+        "speed": 90,
+        "defense": 120,
+        "spells": [
+          {
+            "name": "Holy Shock",
+            "damage": 130,
+            "spellType": "Magic"
+          },
+          {
+            "name": "Divine Judgment",
+            "damage": 210,
+            "spellType": "Magic"
+          }
+        ]
+      },
+      {
+        "name": "Veyna",
+        "type": "Archer",
+        "race": "Elf",
+        "specialization": "DPS",
+        "hp": 1100,
+        "speed": 120,
+        "defense": 60,
+        "spells": [
+          {
+            "name": "Piercing Arrow",
+            "damage": 140,
+            "spellType": "Physical"
+          },
+          {
+            "name": "Rain of Arrows",
+            "damage": 190,
+            "spellType": "Physical"
+          }
+        ]
+      },
+      {
+        "name": "Seraphina",
+        "type": "Priestess",
+        "race": "Angel",
+        "specialization": "Healer",
+        "hp": 1400,
+        "speed": 100,
+        "defense": 65,
+        "spells": [
+          {
+            "name": "Divine Light",
+            "damage": 0,
+            "healingAmount": 200,
+            "spellType": "Healing"
+          },
+          {
+            "name": "Purification Wave",
+            "damage": 0,
+            "healingAmount": 300,
+            "spellType": "Healing"
+          }
+        ]
+      },
+      {
+        "name": "Darius",
+        "type": "Knight",
+        "race": "Human",
+        "specialization": "Tank",
+        "hp": 1700,
+        "speed": 85,
+        "defense": 110,
+        "spells": [
+          {
+            "name": "Shield Bash",
+            "damage": 140,
+            "spellType": "Physical"
+          },
+          {
+            "name": "Guardian Strike",
+            "damage": 200,
+            "spellType": "Physical"
+          }
+        ]
+      },
+      {
+        "name": "Zyra",
+        "type": "Druid",
+        "race": "Elf",
+        "specialization": "Support",
+        "hp": 1300,
+        "speed": 110,
+        "defense": 70,
+        "spells": [
+          {
+            "name": "Nature’s Embrace",
+            "damage": 0,
+            "healingAmount": 250,
+            "spellType": "Healing"
+          },
+          {
+            "name": "Root Snare",
+            "damage": 150,
+            "spellType": "Magic"
+          }
+        ]
+      },
+      {
+        "name": "Draven",
+        "type": "Berserker",
+        "race": "Orc",
+        "specialization": "DPS",
+        "hp": 1600,
+        "speed": 100,
+        "defense": 80,
+        "spells": [
+          {
+            "name": "Blood Fury",
+            "damage": 200,
+            "spellType": "Physical"
+          },
+          {
+            "name": "Reckless Charge",
+            "damage": 180,
+            "spellType": "Physical"
+          }
+        ]
+      }
+    ]
+  }
